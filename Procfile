@@ -1,3 +1,4 @@
- web: python main.py
+web: python dugin.py
+
 
 
