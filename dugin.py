@@ -14,8 +14,8 @@ import asyncio
 # ——————— CONFIGURATION ———————
 # Direct credentials as provided
 API_ID = 25534203
-API_HASH = '5d4c95aab680f35d59a72381fa486650'
-BOT_TOKEN = '8025194294:AAFLCgZb47b2b7fi2d6gpa7-YbaXupFDJRk'
+API_HASH = ''
+BOT_TOKEN = ''
 TARGET_CHANNEL = '@duginneuro'
 SOURCE_CHANNELS = ['@novosti_efir', '@toporlive']  # extend as needed
 OPENAI_API_KEY = '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'
