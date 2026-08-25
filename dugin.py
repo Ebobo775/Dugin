@@ -18,8 +18,8 @@ API_HASH = ''
 BOT_TOKEN = ''
 TARGET_CHANNEL = '@duginneuro'
 SOURCE_CHANNELS = ['@novosti_efir', '@toporlive']  # extend as needed
-OPENAI_API_KEY = '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'
-ERROR_NOTIFY_CHAT = 'https://t.me/+JirC1V_rgXo3N2Uy'
+OPENAI_API_KEY = '
+ERROR_NOTIFY_CHAT = ''
 FETCH_INTERVAL_MINUTES = 60  # run every 1 hour
 MENTION_THRESHOLD = 2       # minimum number of channel mentions
 
